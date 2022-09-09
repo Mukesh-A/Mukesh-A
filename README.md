@@ -29,7 +29,7 @@
 <br/>
   <p align="center">
     <a href="#">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mukesh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Mukesh-A&theme=tokyonight&date_format=j%20M%5B%20Y%5D&ring=DD2727"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mukesh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Mukesh-A&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=DD2727"/>
     </a>
   </p>
 <br/>

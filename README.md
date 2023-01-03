@@ -36,7 +36,7 @@
 <br/> 
 
 <h2 align="center">CONTACT</h2>
-<p align="center"><a href="https://twitter.com/Mukeshabhi06"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mukesh-a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://mukesh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Website-%231DA1F2.svg?&style=for-the-badge&logo=wodrpress&logoColor=white" height=25></a></p>
+<p align="center"><a href="https://twitter.com/0xmukesha"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mukesh-a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://mukesh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Website-%231DA1F2.svg?&style=for-the-badge&logo=wodrpress&logoColor=white" height=25></a></p>
 <br/>
 <br/>
 
